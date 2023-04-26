@@ -1,0 +1,37 @@
+{
+    "Movies": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "MoviesClassification": {"S": "Imdb"},
+                  "Director": {"S": "Steven Spielberg"},
+                  "MovieTitle": {"S": "Saving Private Ryan"},
+                  "MovieYear": {"S": "1998"},
+                  "Genre": {"S": "War"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "MoviesClassification": {"S": "Imdb"},
+                  "Director": {"S": "Francis Ford Coppola"},
+                  "MovieTitle": {"S": "The Godfather"},
+                  "MovieYear": {"S": "1972"},
+                  "Genre": {"S": "Policial"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "MoviesClassification": {"S": "Imdb"},
+                  "Director": {"S": "Frank Darabont"},
+                  "MovieTitle": {"S": "The Green Mile"},
+                  "MovieYear": {"S": "2000"},
+                  "Genre": {"S": "Adventure"}
+                }
+            }
+        }
+      ]
+}

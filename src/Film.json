@@ -1,0 +1,7 @@
+{
+  "MoviesClassification": {"S": "Imdb"},
+  "Director": {"S": "Robert Zemeckis"},
+  "MovieTitle": {"S": "Forrest Gump"},
+  "MovieYear": {"S": "1994"},
+  "Genre": {"S": "Romance"}
+}
